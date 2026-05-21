@@ -1,16 +1,26 @@
-## Hi there 👋
+# Matías Rossello
 
-<!--
-**elmandress/elmandress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Web con IA** · Montevideo, Uruguay
 
-Here are some ideas to get you started:
+Construyo sitios que funcionan en producción usando IA 
+como herramienta principal de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En producción ahora
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [terrenet.uy](https://terrenet.uy) | Plataforma inmobiliaria con usuarios reales | HTML · CSS · JS · Supabase |
+| [luisrossello.uy](https://luisrossello.uy) | Sitio profesional inmobiliario, genera leads | HTML · CSS · JS · Supabase · Netlify |
+| [amanoatelier.uy](https://amanoatelier.uy) | Sitio comercial | HTML · CSS · JS |
+
+## En construcción
+**SIGSM** — Sistema hospitalario para Hospital de Clínicas (UTU 2026)  
+`PHP` `MySQL` `Bootstrap 5.3` `Linux` `Docker` `SSH`  
+Primera entrega: junio 2026
+
+## Stack
+`HTML` `CSS` `Bootstrap` `JavaScript` `SQL` `MySQL`  
+`Linux/Bash` `Git` `Cursor` `Supabase` `Netlify`
+
+## Contacto
+[LinkedIn](https://linkedin.com/in/matias-rossello-scheerer) · 
+[neptuno.rossello@gmail.com](mailto:neptuno.rossello@gmail.com)
