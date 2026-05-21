@@ -8,9 +8,9 @@ como herramienta principal de desarrollo.
 ## En producción ahora
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [terrenet.uy](https://terrenet.uy) | Plataforma inmobiliaria con usuarios reales | HTML · CSS · JS · Supabase |
+| [terrenet.uy](https://terrenet.uy) | Plataforma inmobiliaria con usuarios reales | HTML · CSS · JS · Supabase · Netlify |
 | [luisrossello.uy](https://luisrossello.uy) | Sitio profesional inmobiliario, genera leads | HTML · CSS · JS · Supabase · Netlify |
-| [amanoatelier.uy](https://amanoatelier.uy) | Sitio comercial | HTML · CSS · JS |
+| [amanoatelier.uy](https://amanoatelier.uy) | Sitio comercial | HTML · CSS · JS · Supabase · Netlify |
 
 ## En construcción
 **SIGSM** — Sistema hospitalario para Hospital de Clínicas (UTU 2026)  
